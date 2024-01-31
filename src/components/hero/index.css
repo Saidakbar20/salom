@@ -1,0 +1,37 @@
+.hero-inner {
+  margin-top: 19px;
+  display: flex;
+}
+
+.text-title {
+  width: 376px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 76px; /* 118.75% */
+  margin-top: 50px;
+}
+.text-paragraph {
+  width: 523px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 155.556% */
+  margin-bottom: 50px;
+}
+.btn {
+  border-radius: 30px;
+  background: #e9672b;
+  color: #000;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 155.556% */
+  padding: 10px 12px;
+  border: none;
+}

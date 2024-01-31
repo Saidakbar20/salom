@@ -1,0 +1,26 @@
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 31px;
+}
+
+.nav-list {
+  display: flex;
+}
+.nav-item {
+  margin-left: 36px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 125% */
+}
+.nav-item:nth-child(1) {
+  margin-left: 0px;
+}
+
+.header-box {
+  display: flex;
+}

@@ -1,0 +1,23 @@
+.apartment-inner {
+
+        background: #F6CFCA;
+}
+.text-title {
+        color: #000;
+text-align: center;
+font-family: Roboto;
+font-size: 88px;
+font-style: normal;
+font-weight: 400;
+width: 913px;
+line-height: 100px; /* 113.636% */
+}
+.logo {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+}
+
+.img {
+        margin-left: 94px;
+}
